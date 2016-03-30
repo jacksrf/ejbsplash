@@ -93,6 +93,10 @@ input:focus {
   outline: none;
 }
 
+div#mce-responses {
+    font-family: "Gotham-Thin";
+    margin-top: 10px;
+}
 
 
 
