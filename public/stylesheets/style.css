@@ -43,7 +43,9 @@ input#mce-EMAIL {
     height: 30px;
     border: 1px solid #8B8B8B;
     border-radius: 5px;
-    padding-left: 15px
+    padding-left: 15px;
+    font-family: 'Gotham-Light';
+    color: #373737;
 }
 
 form#mc-embedded-subscribe-form {
@@ -77,8 +79,10 @@ p#notice {
 }
 
 p#notice a {
-  color: #373737;
+  color: #8b8b8b;
   text-decoration: none;
+  font-family: 'Gotham-Light';
+  font-size: 14px;
 }
 
 input#mce-EMAIL::-webkit-input-placeholder { /* Chrome/Opera/Safari */
@@ -116,7 +120,7 @@ h1 {
     letter-spacing: 4px;
     margin-top: 20px!important;
     float: left;
-    color: #373737;
+    color: #8b8b8b;
 }
 
 
