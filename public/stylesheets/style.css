@@ -146,6 +146,31 @@ h1 {
     color: #8b8b8b;
 }
 
+div#social {
+    width: 80%;
+    float: left;
+    overflow: auto;
+    margin: 20px 0px;
+    margin-left: 10%;
+}
+
+.social_holder {
+    width: 33.3333%;
+    float: left;
+    text-align: center;
+    overflow: auto;
+}
+
+.social_holder i {
+    color: #8b8b8b;
+    font-size: 40px;
+}
+
+.social_holder a img {
+    width: 40px;
+}
+
+
 
 
 
